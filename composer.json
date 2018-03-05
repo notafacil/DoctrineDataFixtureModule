@@ -1,6 +1,6 @@
 {
-    "name": "gasjaapi/doctrine-data-fixture-module",
-    "description": "Zend Framework 3 Module that provides Doctrine Data-Fixture functionality",
+    "name": "notafacil/doctrine-data-fixture-module",
+    "description": "ZF3 que fornece funcionalidade Doctrine Data-Fixture",
     "type": "library",
     "license": "MIT",
     "authors": [
